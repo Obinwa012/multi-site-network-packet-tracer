@@ -1,8 +1,9 @@
 # Multi-Site Secure Network: Cisco Packet Tracer
 
-![image](docs/screenshots/https://github.com/Obinwa012/multi-site-network-packet-tracer/blob/main/docs/screenshots/Plan.webp)
 
 A secure, multi-site network built in Cisco Packet Tracer connecting a **Main Restaurant** site and a **Grocery Store** site over a dedicated WAN link. Uses router-on-a-stick inter-VLAN routing, per-VLAN DHCP, static WAN routing, and extended ACLs to isolate guest/vendor traffic from all sensitive internal subnets.
+
+![image](docs/screenshots/https://github.com/Obinwa012/multi-site-network-packet-tracer/blob/main/docs/screenshots/Plan.webp?raw=true)
 
 ## Project Overview and Work Accomplished
 
